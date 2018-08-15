@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InstagramDemo</string>
+    <string-array name="nameList">
+        <item>Ashok</item>
+        <item>Mahesh</item>
+        <item>Sagar</item>
+        <item>Hinal</item>
+        <item>Ram</item>
+        <item>Shyam</item>
+        <item>Ganesh</item>
+        <item>Parthiv</item>
+        <item>Rashmi</item>
+        <item>Ashok</item>
+        <item>Raj</item>
+        <item>Rajdeep</item>
+        <item>Kamal</item>
+        <item>Kuldeep</item>
+        <item>Hardik</item>
+        <item>Ashvin</item>
+    </string-array>
+
+</resources>
